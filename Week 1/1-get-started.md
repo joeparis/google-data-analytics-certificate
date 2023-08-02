@@ -1,22 +1,18 @@
-# Google Data Analytics Certificate
-
-## Get Started
-
-## Welcome to the Google Data Analytics Certificate
+# Welcome to the Google Data Analytics Certificate
 
 Data is a collection of facts. This collection can include numbers, pictures, videos, words, measurements, observations, and more.
 
 Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
-### Introduction to the Course
+# Introduction to the Course
 
 In this first course, you'll learn more about each phase of the data analysis process. Ask, prepare, process, analyze, share, and act.
 
-### Your data analytics certificate roadmap
+# Your data analytics certificate roadmap
 
 Preview of each course:
 
-#### Foundations
+## Foundations
 
 **What you will learn:**
 
@@ -34,7 +30,7 @@ Preview of each course:
 * Showing trends and patterns with data visualizations
 * Ensuring your data analysis is fair
 
-#### Ask
+## Ask
 
 **What you will learn:**
 
@@ -53,7 +49,7 @@ Preview of each course:
 * Managing team and stakeholder expectations
 * Problem-solving and conflict-resolution
 
-#### Prepare
+## Prepare
 
 **What you will learn:**
 
@@ -72,7 +68,7 @@ Preview of each course:
 * Organizing and protecting data
 * Connecting with the data community (optional)
 
-#### Process
+## Process
 
 **What you will learn:**
 
@@ -90,7 +86,7 @@ Preview of each course:
 * Cleaning large datasets by writing SQL queries
 * Documenting data-cleaning processes
 
-#### Analyze
+## Analyze
 
 **What you will learn:**
 
@@ -110,7 +106,7 @@ Preview of each course:
 * Substantiating data analysis processes
 * Seeking feedback and support from others during data analysis
 
-#### Share
+## Share
 
 **What you will learn:**
 
@@ -130,7 +126,7 @@ Preview of each course:
 * Presenting to others about data
 * Answering questions about data
 
-#### Act
+## Act
 
 **What you will learn:**
 
@@ -151,7 +147,7 @@ Preview of each course:
 * Generating data visualizations in R
 * Reporting on data analysis to stakeholders
 
-#### Capstone
+## Capstone
 
 **What you will learn:**
 
@@ -169,13 +165,13 @@ Preview of each course:
 * Sharing your work during an interview
 * Communicating your unique value proposition to a potential employer
 
-### Optional: Familiar with data analytics? Take our diagnostic quiz
+# Optional: Familiar with data analytics? Take our diagnostic quiz
 
 Need >= 80% to pass.
 
 Scored a 97.5% on the quiz, I didn't check one option on a multiple choice question (although I thought I had selected it). I got everything else correct.
 
-#### Optional: Your diagnostic quiz score and what it means
+## Optional: Your diagnostic quiz score and what it means
 
 Use your score to help you determine whether you should take the speed track. The speed track allows you to skip over the lesson material and go straight to the weekly challenges and the course challenge, which lead to your final course score. In order to earn your certificate, you will need an overall score of 80% or higher on all graded materials in this program. Read on to figure out your next steps based on your quiz score:
 
