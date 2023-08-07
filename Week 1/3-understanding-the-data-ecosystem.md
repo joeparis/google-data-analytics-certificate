@@ -1,1 +1,0 @@
-# Understanding the data ecosystem
